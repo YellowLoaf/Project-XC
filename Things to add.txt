@@ -1,3 +1,9 @@
 Godrays from graphics levels 7 - 10
 
 Automatically remove shadows on graphics levels 1 - 3
+
+Fix main menu
+
+Add more music
+
+New map (Map Voting area)
